@@ -1,0 +1,26 @@
+/* src/components/LocationSearch.css */
+
+.LocationSearch {
+    margin: 20px 0;
+  }
+  
+  .LocationSearch input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .LocationSearch button {
+    padding: 10px;
+    border: none;
+    background: #61dafb;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .LocationSearch button:hover {
+    background: #21a1f1;
+  }
+  

@@ -1,0 +1,32 @@
+/* src/components/Weather.css */
+
+.Weather {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    width: 80%;
+    max-width: 500px;
+    text-align: left;
+    margin-bottom: auto;
+  }
+  
+  .Weather-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .Weather-main {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Weather-icon {
+    font-size: 48px;
+    margin-right: 20px;
+  }
+  
+  .Weather-details {
+    text-align: right;
+  }
